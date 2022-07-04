@@ -269,6 +269,7 @@ namespace SETWebScraper
 
         private void btnClearFilter_Click(object sender, EventArgs e)
         {
+
             textBox1.Text =
             comboBox1.Text =
             comboBox2.Text =
